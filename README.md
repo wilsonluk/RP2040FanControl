@@ -1,1 +1,1 @@
-# RP2040FanControl
+# Raspberry Pi RP2040 PWM Fan Controller
